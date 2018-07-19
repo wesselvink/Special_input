@@ -1,0 +1,23 @@
+<?wpl version="1.0"?>
+<smil>
+    <head>
+        <meta name="Generator" content="Microsoft Windows Media Player -- 12.0.14393.1914"/>
+        <meta name="ItemCount" content="5"/>
+        <meta name="IsFavorite"/>
+        <meta name="ContentPartnerListID"/>
+        <meta name="ContentPartnerNameType"/>
+        <meta name="ContentPartnerName"/>
+        <meta name="Subtitle"/>
+        <author/>
+        <title>king crimson</title>
+    </head>
+    <body>
+        <seq>
+            <media src="..\..\Desktop\school project\king crimson\01 - 21st Century Schizoid Man (including Mirrors).mp3"/>
+            <media src="..\..\Desktop\school project\king crimson\02 - I Talk to the Wind.mp3"/>
+            <media src="..\..\Desktop\school project\king crimson\03 - Epitaph (including March For No Reason &amp; Tomorrow and Tomorrow).mp3"/>
+            <media src="..\..\Desktop\school project\king crimson\04 - Moonchild (including The Dream &amp; The Illusion).mp3"/>
+            <media src="..\..\Desktop\school project\king crimson\05 - The Court of the Crimson King (including The Return of the Fire Witch &amp; The Dance of the Pup.mp3"/>
+        </seq>
+    </body>
+</smil>
